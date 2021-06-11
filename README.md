@@ -21,4 +21,4 @@
 
 ### 서버 아키텍처 구조
 - MVC 패턴을 적용하여 서버를 구축하였다. 
-<img src="server.PNG">
+<img src="server.png">
