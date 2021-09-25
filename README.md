@@ -37,9 +37,11 @@
 ### Spring Boot 내부 Package 구조
 - Domain
   - DataBase를 처리하기 위한 DB 테이블과 동일한 객체를 관리하는 클래스 Package 
-- DTO
+- DTO (Web/dto)
   - 데이터 전달 객체 Package (Domain과 매우 유사하나 외부에서 필요한 정보를 전달하며 DB와 근접한 Domain이 손상되지 않도록 분리시켜 사용하였다.)
 - Service
   - 실제 로직을 수행하는 클래스 Package
-- Controller
+- Controller (Web/Conroller)
   - Client 요청을 받아 학과 관련 정보를 제공하거나 해당 Requestmapping을 수행하고 응답을 전달하는 클래스 Package
+- Crawler 
+  - 학교 홈페이지에서 크롤링하여 정보를 제공하기 위한 클래스 Package
