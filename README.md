@@ -27,10 +27,11 @@
   - 공지사항 API [Notices]
   - 학과소식 API [News]
   - 사용자 API [Users]
- 
-<img src="restAPI1.png">
-<img src="restAPI2.png">
-
+<p float="left">
+  <img src="restAPI1.png" width="45%">
+  
+  <img src="restAPI2.png" width="45%">
+</p>
 ### 서버 아키텍처 구조
 - MVC 패턴을 적용하여 서버를 구현하였다. 
 <img src="server.png">
