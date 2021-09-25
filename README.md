@@ -1,4 +1,4 @@
-# Co-ARi Server
+# Co-ARi Server + Web
 ---
 ### Co-ARi
 도메인 주소 : http://www.co-ari.o-r.kr:8080/
@@ -45,3 +45,6 @@
   - Client 요청을 받아 학과 관련 정보를 제공하거나 해당 Requestmapping을 수행하고 응답을 전달하는 클래스 Package
 - Crawler 
   - 학교 홈페이지에서 크롤링하여 정보를 제공하기 위한 클래스 Package
+
+### Web 정보 전달
+- JS를 활용하여 정보를 입력할 경우 JSON으로 담아 서버에게 전달하는 방식으로 구현하였다.
