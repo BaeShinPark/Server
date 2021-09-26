@@ -20,7 +20,8 @@
 
 ### API 명세서
 - http://co-ari.o-r.kr:8080/swagger-ui.html
-
+> 구글 클라우드 플랫폼(GCP) 결제가 지연되어 도메인 접근이 되지 않습니다. 결제가 되는대로 다시 활성화 시키겠습니다.
+> 
   - 알림 API [Alarms]
   - 호실 정보 (앵커) API [Anchors]
   - 졸업 명예의 전당 API [Graduates]
